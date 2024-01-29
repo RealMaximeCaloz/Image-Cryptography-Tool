@@ -1,6 +1,8 @@
 # Image Cryptography Tool
 # Project Overview
-This cryptography tool takes into input 2 images: 1) a secret image you wish to hide; 2) a container image in which to hide your hidden image.
+This steganographic cryptography tool takes into input 2 images: 
+1) a secret image you wish to hide;
+2) a container image in which to hide your hidden image.
 
 Example of a secret image to hide:
 
